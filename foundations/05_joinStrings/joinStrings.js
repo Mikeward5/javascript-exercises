@@ -9,8 +9,13 @@
 
 // Add your code right below, good luck!
 
+const firstName = "Carlos";
+const lastName = "Stevenson";
+const age = 18
 
+const greeting = "Hello! My name is " + firstName + " " + lastName + " " + "and I am " + age + " " + "years old."
 
+console.log(greeting);
 
 
 // Do not change this
